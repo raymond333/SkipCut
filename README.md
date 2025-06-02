@@ -5,7 +5,7 @@
   
   [![Website](https://img.shields.io/badge/Website-skipcut.com-blue?style=for-the-badge)](https://skipcut.com)
   [![GitHub Stars](https://img.shields.io/github/stars/nintyfivex/SkipCut?style=for-the-badge)](https://github.com/nintyfivex/SkipCut/stargazers)
-  [![Support](https://img.shields.io/badge/Support-Buy%20Coffee-orange?style=for-the-badge)](https://buymeacoffee.com/skipcut)
+   [![Support](https://img.shields.io/badge/Support-Buy%20Coffee-orange?style=for-the-badge)](https://buymeacoffee.com/skipcut)
   
   <h3>🚀 The Ultimate Ad-Free YouTube Experience</h3>
   <p><strong>Watch YouTube videos without ads on any device — no installation, no login required!</strong></p>
