@@ -4,7 +4,7 @@
   <img src="https://skipcut.com/skipcut_og.png" alt="SkipCut - Ad-Free YouTube Player" width="600">
   
   [![Website](https://img.shields.io/badge/Website-skipcut.com-blue?style=for-the-badge)](https://skipcut.com)
-  [![GitHub Stars](https://img.shields.io/github/stars/nintyfivex/SkipCut?style=for-the-badge)](https://github.com/nintyfivex/SkipCut/stargazers)
+  [![GitHub Stars](https://img.shields.io/github/stars/nintyfivex/skipcut?style=for-the-badge)](https://github.com/nintyfivex/SkipCut/stargazers)
   [![Support](https://img.shields.io/badge/Support-Buy%20Coffee-orange?style=for-the-badge)](https://buymeacoffee.com/skipcut)
   
   <h3>🚀 The Ultimate Ad-Free YouTube Experience</h3>
