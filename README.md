@@ -4,7 +4,7 @@
   <img src="https://skipcut.com/skipcut_og.png" alt="SkipCut - Ad-Free YouTube Player" width="600">
   
   [![Website](https://img.shields.io/badge/Website-skipcut.com-blue?style=for-the-badge)](https://skipcut.com)
-  [![GitHub Stars](https://img.shields.io/github/stars/jeeiee/SkipCut?style=for-the-badge)](https://github.com/jeeiee/SkipCut/stargazers)
+  [![GitHub Stars](https://img.shields.io/github/stars/nintyfivex/SkipCut?style=for-the-badge)](https://github.com/nintyfivex/SkipCut/stargazers)
   [![Support](https://img.shields.io/badge/Support-Buy%20Coffee-orange?style=for-the-badge)](https://buymeacoffee.com/skipcut)
   
   <h3>🚀 The Ultimate Ad-Free YouTube Experience</h3>
@@ -145,19 +145,19 @@
 - **🎨 Enhanced UI**: More customization and viewing options
 
 ### 💡 **Feature Requests**
-Have an idea? [Open an issue](https://github.com/jeeiee/SkipCut/issues) or [join our community](https://t.me/skipcut)!
+Have an idea? [Open an issue](https://github.com/nintyfivex/SkipCut/issues) or [join our community](https://t.me/skipcut)!
 
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
 
 ### 🐛 **Bug Reports**
-1. Check existing [issues](https://github.com/jeeiee/SkipCut/issues)
+1. Check existing [issues](https://github.com/nintyfivex/SkipCut/issues)
 2. Create detailed bug report with steps to reproduce
 3. Include browser/device information
 
 ### ✨ **Feature Requests**
-1. Search existing [feature requests](https://github.com/jeeiee/SkipCut/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+1. Search existing [feature requests](https://github.com/nintyfivex/SkipCut/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 2. Describe the feature and use case
 3. Explain why it would benefit users
 
@@ -190,8 +190,8 @@ SkipCut is completely free and always will be. Your support helps us maintain se
   
   <p>
     <a href="https://skipcut.com">🌐 Website</a> •
-    <a href="https://github.com/jeeiee/SkipCut/issues">🐛 Report Bug</a> •
-    <a href="https://github.com/jeeiee/SkipCut/issues">💡 Request Feature</a> •
+    <a href="https://github.com/nintyfivex/SkipCut/issues">🐛 Report Bug</a> •
+    <a href="https://github.com/nintyfivex/SkipCut/issues">💡 Request Feature</a> •
     <a href="https://t.me/skipcut">💬 Community</a> •
     <a href="https://buymeacoffee.com/skipcut">☕ Support</a>
   </p>
